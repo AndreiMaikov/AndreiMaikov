@@ -14,7 +14,7 @@ This project aims at developing an automated system for importing data from mult
 
 ### 5. The Klein-Gordon equation &ndash; C++
 In this project, a code for numerically solving the initial-boundary problem
-![ ](https://github.com/AndreiMaikov/The_Klein-Gordon_equation-1/blob/main/img/ibp_3x0.7.png)
+![ ](https://github.com/AndreiMaikov/The_Klein-Gordon_equation-1/blob/main/img/ibp_3x0.49.png)
 was developed. 
 
 This problem is related to **the Klein-Gordon equation** and is important for testing the so-called **open boundary conditions** (also known as transparent or non-reflecting boundary conditions) for equations that describe electromagnetic or acoustic waves in various media.
