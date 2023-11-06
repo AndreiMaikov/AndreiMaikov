@@ -8,5 +8,5 @@ These projects are closely related to the development of an e-commerce solution 
 Data pipelines used to study correlations between combinations of weather factors and the incidence of various types of crime must be capable of processing large raw datasets with high temporal and spatial granularity. This simple learning project is meant to be a first phase of building such a data pipeline.
 
 
-#### 2. Online Marketplace Shipping Project – SQL </br> 3. Shipping Resources Availability Project – SQL
+#### 2. Online Marketplace Shipping Project – SQL </br> 3. <a href="https://github.com/AndreiMaikov/Shipping_resources_availability--SQL">Shipping Resources Availability Project – SQL</a>
 The goal of these projects was to provide for shipping management functionality of an online marketplace system.
