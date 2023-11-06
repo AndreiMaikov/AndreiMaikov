@@ -1,5 +1,5 @@
 ## Hi, I am Andrey
-Thank you for visiting my GitHub page. At the moment, there are five projects presented here:
+Thank you for visiting my GitHub page. At the moment, there are five projects presented here.
 
 ### 1. Weather Factors in Crime &ndash; Redshift-Airflow-Terraform
 Data pipelines used to study correlations between combinations of weather factors and the incidence of various types of crime must be capable of processing large raw datasets with high temporal and spatial granularity. This simple learning project is meant to be a first phase of building such a data pipeline.
