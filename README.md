@@ -10,7 +10,9 @@ The goal of these two projects is to provide for shipping management functionali
 ### 4. Square Data Import Automation Project &ndash; Python-SQL-AWS
 This project aims at developing an automated system for importing data from multiple Square online stores. The information on the products offered at the stores is processed and standardized so that it could be downloaded into the destination relational database for further use. The information in the destination DB is synchronized with the sources on the Square platform: each time when a participating merchant alters the catalog of their Square online store, the data in the destination DB is updated accordingly.
 
+***
 **Projects 2 &ndash; 4** are closely related to the development of an e-commerce solution (online marketplace) I was involved in during my work placement at **SwiftRoot Inc**.
+***
 
 ### 5. The Klein-Gordon equation &ndash; C++
 In this project, a code for numerically solving the initial-boundary problem</br>
