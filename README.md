@@ -10,6 +10,13 @@ The goal of these projects was to provide for shipping management functionality 
 #### 4. Square Data Import Automation Project – Python-SQL-AWS
 This project aims at developing an automated system for importing data from multiple Square online stores. The information on the products offered at the stores is processed and standardized so that it could be downloaded into the destination relational database for further use. The information in the destination DB is synchronized with the sources on the Square platform: each time when a participating merchant alters the catalog of their Square online store, the data in the destination DB is updated accordingly.
 
-Projects 2 &ndash; 4 are closely related to the development of an e-commerce solution (online marketplace) I was involved in during my work placement at SwiftRoot Inc.
+**Projects 2 &ndash; 4** are closely related to the development of an e-commerce solution (online marketplace) I was involved in during my work placement at SwiftRoot Inc.
+
+#### 5. The Klein-Gordon equation
+In this project, a code for numerically solving the initial-boundary problem
+![ ](https://github.com/AndreiMaikov/The_Klein-Gordon_equation-1/blob/main/img/ibp_2.png)
+was developed. 
+
+This problem is related to <a href="https://en.wikipedia.org/wiki/Klein-Gordon_equation">the Klein-Gordon equation</a> and is important for testing the so-called open boundary conditions (also known as transparent or non-reflecting boundary conditions) for equations that describe electromagnetic or acoustic waves in various media.
 
 
