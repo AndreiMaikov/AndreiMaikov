@@ -4,7 +4,7 @@ Thank you for visiting my GitHub page. At the moment, there are five projects pr
 ### 1. Weather Factors in Crime &ndash; Redshift-Airflow-Terraform
 Data pipelines used to study correlations between combinations of weather factors and the incidence of various types of crime must be capable of processing large raw datasets with high temporal and spatial granularity. This simple learning project is meant to be a first phase of building such a data pipeline.
 
-### 2. Online Marketplace Shipping Project &ndash; SQL </br> 3. <a href="https://github.com/AndreyMaykov/Shipping_resources_availability--SQL">Shipping Resources Availability Project &ndash; SQL</a>
+### 2. <a href="https://github.com/AndreyMaykov/Online_marketplace_shipping--SQL">Online Marketplace Shipping Project &ndash; SQL</a> </br> 3. <a href="https://github.com/AndreyMaykov/Shipping_resources_availability--SQL">Shipping Resources Availability Project &ndash; SQL</a>
 The goal of these two projects is to provide for shipping resources management functionality of an online marketplace system. To maintain data integrity and facilitate shipment planning, triggers and stored procedures are widely used. 
 
 ### 4. Square Data Import Automation Project &ndash; Python-SQL-AWS
