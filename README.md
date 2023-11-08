@@ -14,7 +14,7 @@ This project aims at developing an automated system for importing data from mult
 **Projects 2 &ndash; 4** are closely related to the development of an e-commerce solution (online marketplace) I was involved in during my work placement at **SwiftRoot Inc**.
 ***
 
-### 5. The Klein-Gordon equation &ndash; C++
+### <a href="https://github.com/AndreyMaykov/The_Klein-Gordon_equation>5. The Klein-Gordon equation &ndash; C++</a>
 In this project, a code for numerically solving the initial-boundary problem</br>
 ![ ](https://github.com/AndreiMaikov/The_Klein-Gordon_equation-1/blob/main/img/ibp_3x0.49.png)</br>
 was developed. 
