@@ -11,7 +11,7 @@ This project aims at developing an automated system for importing data from mult
 **Projects 1 &ndash; 3** are closely related to the development of an e-commerce solution (online marketplace) I was involved in during my work placement at **SwiftRoot Inc**.
 ***
 
-### <a href="https://github.com/AndreyMaykov/Weather_factors_in_crime--Redshift-Airflow-Terraform">1. Weather Factors in Crime &ndash; Redshift-Airflow-Terraform</a>
+### <a href="https://github.com/AndreyMaykov/Weather_factors_in_crime--Redshift-Airflow-Terraform">4. Weather Factors in Crime &ndash; Redshift-Airflow-Terraform</a>
 Data pipelines used to study correlations between combinations of weather factors and the incidence of various types of crime must be capable of processing large raw datasets with high temporal and spatial granularity. This simple learning project is meant to be a first phase of building such a data pipeline.
 
 
